@@ -1,0 +1,10 @@
+würfel erkennung
+    schatten
+    dice
+    blobs
+    c++ lösung
+augen
+    c++
+    hu momente
+    0 sortieren
+    mustervergleich

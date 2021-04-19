@@ -1,0 +1,24 @@
+# Exported from 3D Builder
+
+newmtl Goblin_Scavenger:scavenger_a_back_phong1SG141_0
+Kd 1.000000 1.000000 1.000000
+map_Kd 3449354092_1024x1024_6195987693227547908.png
+
+newmtl Goblin_Scavenger:goblin_head_2_hair_defaultMat129358_0
+Kd 1.000000 1.000000 1.000000
+map_Kd 3396817417_512x512_17026833529806663332.png
+
+newmtl Goblin_Scavenger:goblin_a_goblin_body_mtlSG218467_0
+Kd 1.000000 1.000000 1.000000
+map_Kd 1602005285_512x512_11563080508590297124.png
+
+newmtl Goblin_Scavenger:goblin_head_mtlSG123281_0
+Kd 1.000000 1.000000 1.000000
+map_Kd 1503738374_512x512_1535343169432686052.png
+
+newmtl Goblin_Scavenger:blinn9SG116827_0
+Kd 0.459515 0.459515 0.459515
+
+newmtl Goblin_Male:eye_mtlSG19961_0
+Kd 1.000000 1.000000 1.000000
+map_Kd 44556282_128x128_10237818229961227934.png
